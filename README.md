@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi 👋, I'm vaibhav sharma<br>A passionate Full stack developer from India<br>🔭 I'm eager to embark on this exhilarating journey of coding mastery<br>My latest Project - Real Time Drawing Tool<br>🤝 My Backend Project - Building a Zerodha end to end with digital payment systems <br>🌱 I’m currently learning - Next.js, MERN Stack<br>💬 Ask me about - react, angular, node<br>📫 How to reach me - vaibhav200345@gmail.com<br>⚡ Fun fact - Certainly! It seems like you would like me to write a short piece of text. Could you please provide more specific details or context about what you'd like me to write about? This will help me create a tailored response for you.
+
+Hi, I'm Vaibhav Sharma, a Backend Developer from India.
+
+💻 I build scalable backend applications using Java, Spring Boot, REST APIs, and PostgreSQL.
+
+🔭 Currently working on backend systems, integrations, and distributed application development.
+
+🚀 My recent work includes building payment, logistics, inventory, and e-commerce backend systems.
+
+🌱 Currently learning System Design, Microservices, Kafka, AWS, Docker, and Kubernetes.
+
+💬 Ask me about Java, Spring Boot, Spring Security, REST APIs, PostgreSQL, Kafka, AWS, and Backend Development.
+
+📫 How to reach me: vaibhav200345@gmail.com
+
+⚡ Fun fact: I enjoy turning complex backend problems into simple, reliable solutions.
 
 
 ## 🌐 Socials:
